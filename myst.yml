@@ -3,8 +3,8 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Kimi Hekmat
-    - name: Alesja Zorina
+    - name: Kerstman
+    - name: Paashaas
 
   date: 2025-11-05
   github: https://github.com/cs50202/kimienalesja.git # Url changed
