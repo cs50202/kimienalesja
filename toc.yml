@@ -62,4 +62,4 @@ project:
       #     - file: Content/Labs/pV_diagram.ipynb
       - title: Faseovergangen
         children:
-        -file: Content/Labs/cappucino.ipynb
+          - file: Content/Labs/cappucino.ipynb
